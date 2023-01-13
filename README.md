@@ -4,5 +4,5 @@ Tracking the movement of a finger is an important feature of many computer visio
 ## How to run this code 
 
 1. Run this code with command `python hand_tracking.py`
-2. Put your parm on
+2. Put your palm on
 3. Finish program with `a` key.
